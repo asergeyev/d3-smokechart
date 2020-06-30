@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "strict": true,
+    "removeComments": true,
+    "target": "es6",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "declaration": true /* Generates corresponding '.d.ts' file. */
+  },
+  "include": ["src"]
+}
